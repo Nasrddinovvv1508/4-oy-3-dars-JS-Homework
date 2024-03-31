@@ -34,8 +34,11 @@
 
 
     // 3-MASALA
-// let inform = prompt();
-// console.log(`Informatsiya: ${inform}`);
+// let number = 4;
+
+// for (let i = 1; i <= number; i++) {
+//     console.log(`Hello World`);
+// }
 
 
 
