@@ -34,7 +34,7 @@
 
 
     // 3-MASALA
-// let number = 4;
+// let number = prompt(`Son kiriting`);
 
 // for (let i = 1; i <= number; i++) {
 //     console.log(`Hello World`);
